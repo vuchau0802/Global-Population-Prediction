@@ -9,8 +9,7 @@ It combines **machine learning regression models** with an **interactive web das
 ---
 
 ## Features  
-- Forecasts the population for any country based on historical data.  
-- Achieves **95% prediction accuracy** using ML regression models.  
+- Forecasts the population for any country based on historical data.    
 - Interactive dashboard with:
   - Choropleth map for population distribution.  
   - Line & bar charts for trend visualization.  
