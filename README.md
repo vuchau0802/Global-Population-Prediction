@@ -1,14 +1,22 @@
 # Global Population Prediction
-Forecasting population trends for every country from 1960 – 2023 using machine learning and interactive data visualization.
+An AI-powered population analytics and forecasting platform that combines machine learning, ETL pipelines, and interactive D3.js dashboards to analyze global demographic trends from 1960–2023 across 200+ countries.
 ---
 
-## Overview  
-This project predicts **global population growth trends** using historical data from 1960 to 2023 for all countries worldwide.  
-It combines **machine learning regression models** with an **interactive web dashboard** that visualizes results through maps and charts, allowing users to explore demographic changes intuitively.
+ 
+## Dashboard Features
+ 
+- **Choropleth world map** — population distribution by country with color-coded scale
+- **Global trend chart** — total world population from 1960–2023
+- **Growth rate chart** — annual global population growth rate over time
+- **Country selector sidebar** — explore any country's demographic profile
+- **Country trend chart** — country-level population history and forecast
+- **Birth vs death rate chart** — per-country birth and death rate trends
+- **Top 10 comparison chart** — most populous countries side by side
+- **D3.js legend** — interactive color scale for map visualization
 
 ---
 
-## Features  
+## Steps to Run
 - Forecasts the population for any country based on historical data.    
 - Interactive dashboard with:
   - Choropleth map for population distribution.  
