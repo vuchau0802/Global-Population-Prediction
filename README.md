@@ -17,11 +17,33 @@ An AI-powered population analytics and forecasting platform that combines machin
 ---
 
 ## Steps to Run
-- Forecasts the population for any country based on historical data.    
-- Interactive dashboard with:
-  - Choropleth map for population distribution.  
-  - Line & bar charts for trend visualization.  
-- User-friendly web interface built with **Python, JavaScript, and D3.js**.  
-- Real-time updates from CSV or API inputs for scalability.
+
+**1. Clone the repository**
+ 
+```bash
+git clone https://github.com/vuchau0802/Global-Population-Prediction.git
+cd Global-Population-Prediction
+```
+ 
+**2. Start a local server**
+ 
+```bash
+python -m http.server 8080
+```
+ 
+**3. Open in browser**
+ 
+```
+http://localhost:8080
+```
 
 ---
+
+## Demo
+
+> The dashboard with choropleth maps, demographic charts, and country-level comparisons.
+![Chat Interface](demo/1.png)
+
+![Chat Interface](demo/2.png)
+
+![Chat Interface](demo/2.png)
