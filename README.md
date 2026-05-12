@@ -46,4 +46,4 @@ http://localhost:8080
 
 ![Chat Interface](demo/2.png)
 
-![Chat Interface](demo/2.png)
+![Chat Interface](demo/3.png)
